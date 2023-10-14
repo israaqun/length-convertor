@@ -1,1 +1,40 @@
-body{font-family:Arial,sans-serif;text-align:center;background-color:#3498db;color:#fff;margin:0;padding:0}h1{margin:20px}#converterForm{background-color:#fff;border:1px solid #3498db;border-radius:10px;padding:40px;margin:20px auto;max-width:400px}.form-group label{font-size:18px;font-weight:700;color:#3498db;margin-bottom:5px}.length-input{margin:5px;padding:10px;font-size:16px;width:100%;border:1px solid #3498db;border-radius:5px}
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #3498db; 
+    color: #fff; 
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    margin: 20px;
+  }
+  
+  
+  #converterForm {
+    background-color: #fff; 
+    border: 1px solid #3498db;
+    border-radius: 10px; 
+    padding: 40px;
+    margin: 20px auto;
+    max-width: 400px;
+  }
+  
+  
+  .form-group label {
+    font-size: 18px;
+    font-weight: bold;
+    color: #3498db; 
+    margin-bottom: 5px;
+  }
+  
+  
+  .length-input {
+    margin: 5px;
+    padding: 10px; 
+    font-size: 16px;
+    width: 100%;
+    border: 1px solid #3498db; 
+    border-radius: 5px;
+  }
